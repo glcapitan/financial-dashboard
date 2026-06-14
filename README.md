@@ -52,7 +52,6 @@ The Dashboard reads only from the measures — never the raw tabs — so the pre
 | `README.md` | This overview. |
 | `docs/TECHNICAL.md` | Deep-dive documentation (architecture, data model, measures, usage). |
 | `Financial_Performance_Dashboard_Documentation.pdf` | Formatted documentation + findings memo (previews in-browser on GitHub). |
-| `Financial_Performance_Dashboard_Documentation.docx` | Editable Word version of the documentation. |
 | `LICENSE` | MIT license. |
 
 ## Run it
